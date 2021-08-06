@@ -32,7 +32,7 @@ Below are all the **dependencies** that were used for this project to be complet
 First, you need to **clone this project** to an ideal location on your computer. You can clone either using the github command line or by downloading directly from the browser or the WINRAR file, after that, extract it.
 
 ```sh
-$ git clone https://github.com/HubertRyanOfficial/ucondo-test
+$ git clone https://github.com/HubertRyanOfficial/app-gaming.git
 ```
 
 or
